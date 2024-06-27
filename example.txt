@@ -1,2 +1,3 @@
-Line 1: This is the original text
-Line 2: THis is added by Davron
+Some other feature added 
+Second feature has added
+Another feature is been added
